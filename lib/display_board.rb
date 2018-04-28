@@ -5,6 +5,6 @@ def display_board
   print ["   |", "   |", "   |"]
   print "___________"
   print ["   |", "   |", "   |"]
-  print "___________"  
+  print "___________"
 end
 print display_board

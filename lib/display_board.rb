@@ -3,4 +3,4 @@ def display_board
   print ["  |", "  |", "  |"]
   puts ["  |", "  |", "  |"]
 end
-prints display_board
+print display_board

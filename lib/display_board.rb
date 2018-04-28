@@ -5,6 +5,6 @@ def display_board
   3.times print "   |   "
   print "-----------"
   3.times print "   |   "
-  print "-----------"  
+  print "-----------"
 end
 print display_board
